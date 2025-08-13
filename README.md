@@ -18,7 +18,7 @@ I'm a recent MSc Artificial Intelligence graduate from the University of Surrey,
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, C#, JavaScript, HTML/CSS
+- **Languages**: Python, C#, JavaScript, HTML/CSS, SQL
 - **Frameworks & Tools**: PyTorch, TensorFlow, Unity, Blender, Git
 - **Concepts**: Machine Learning, Deep Learning, NLP, Computer Vision
 
